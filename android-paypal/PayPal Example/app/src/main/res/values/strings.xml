@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PayPal Example</string>
+    <string name="checkout">Checkout</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="label_pay_after_delivery">pay on delivery</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO : Replace with your facebook app id -->
+    <string name="facebook_app_id">facebook_app_id</string>
+    <string name="fb_login_protocol_scheme">fb_login_protocol_scheme</string>
+    <string name="local_host">http://10.0.2.2:5000/</string>
+
+    <string name="label_total">TOTAL : </string>
+    <string name="label_check_out">PROCEED TO CHECKOUT</string>
+    <string name="label_continue_shopping">CONTINUE SHOPPING</string>
+    <string name="label_price">price : </string>
+    <string name="label_quantity">Quantity : </string>
+</resources>
